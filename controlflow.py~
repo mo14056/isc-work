@@ -1,0 +1,8 @@
+#question 1
+
+num_moons = 10
+while num_moons > 5:
+    print num_moons
+
+
+

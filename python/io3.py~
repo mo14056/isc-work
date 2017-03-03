@@ -23,5 +23,5 @@ with open("myrain.txt", "w") as writer: #writing contents to a new file
     
     for r in rain:
 
-      writer.write(str(r) + "\n")
+      write.write(str(r) + "\n")
 
